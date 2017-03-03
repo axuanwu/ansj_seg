@@ -1,7 +1,7 @@
 Ansj中文分词
 ==================
-
- [![1.X Build Status](https://travis-ci.org/NLPchina/ansj_seg.svg?branch=master)](https://travis-ci.org/NLPchina/ansj_seg) [![Gitter](https://badges.gitter.im/NLPchina/ansj_seg.svg)](https://gitter.im/NLPchina/ansj_seg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+fork from https://github.com/NLPchina/ansj_seg/wiki/%E5%AE%9A%E5%88%B6%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84CRF%E6%A8%A1%E5%9E%8B
+[![1.X Build Status](https://travis-ci.org/NLPchina/ansj_seg.svg?branch=master)](https://travis-ci.org/NLPchina/ansj_seg) [![Gitter](https://badges.gitter.im/NLPchina/ansj_seg.svg)](https://gitter.im/NLPchina/ansj_seg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 #####使用帮助 : [3.x版本及之前](http://nlpchina.github.io/ansj_seg/) , [5.x版本及之后](https://github.com/NLPchina/ansj_seg/wiki)   在线测试地址 : <a href="http://demo.nlpcn.org">http://demo.nlpcn.org</href>
